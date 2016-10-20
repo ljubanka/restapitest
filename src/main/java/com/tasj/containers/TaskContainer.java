@@ -1,4 +1,4 @@
-package com.tasj.core;
+package com.tasj.containers;
 
 public class TaskContainer {
     Task task;
